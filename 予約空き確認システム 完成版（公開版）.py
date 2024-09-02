@@ -8,7 +8,8 @@
 # pip install requests
 # 2. このプログラムを実行するために、以下のファイルをダウンロードしてください。
 # https://chromedriver.chromium.org/downloads
-# 3. ダウンロードしたファイルを解凍し、chromedriver.exeを配置したパスを、以下のコードの指定の場所に書き換えてください。
+# 3. ダウンロードしたファイルを解凍し、chromedriver.exeを以下のパスに置くと動くと思います。違ったらごめんなさい！
+# C:\Users\ユーザー名\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromedriver_binary\chromedriver.exe
 # 4. このプログラムを実行するために、以下の手順を実行してください。
 # 4-1. このプログラムを実行するために、以下のファイルをダウンロードしてください。
 # https://notify-bot.line.me/ja/
